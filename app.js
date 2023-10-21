@@ -11,4 +11,4 @@ app.use(express.json());
 
 app.use(tasksRouter);
 
-app.listen(PORT || 3001);
+app.listen(PORT || 3000);
